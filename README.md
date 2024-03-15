@@ -4,6 +4,10 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 
 ![ing5erdiagram](https://github.com/pranavgupta022/Portfolio/blob/main/ssfront.jpg)
 
+![ing5erdiagram](https://github.com/pranavgupta022/Portfolio/blob/main/ssfront1.jpg)
+
+![ing5erdiagram](https://github.com/pranavgupta022/Portfolio/blob/main/ssfourth.jpg)
+
 ## Table of Content
 
 - Indroduction
