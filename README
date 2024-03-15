@@ -1,6 +1,7 @@
 # Portfolio Website
 
 Welcome to my portfolio website! This project showcases my skills, projects, and experiences as a developer.
+<<<<<<< HEAD
 
 ## Table of Content
 
@@ -54,3 +55,5 @@ To deploy this project on terminal run
   cd backend
   node server.js
 ```
+=======
+>>>>>>> 7c7cdcbb3a1f5853a9a040ea9c0ecd863d742334
