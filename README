@@ -58,4 +58,4 @@ To deploy this project on terminal run
   cd backend
   node server.js
 ```
-
+ 
