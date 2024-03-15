@@ -8,8 +8,8 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 
  - Indroduction
  - Features
-- Tech Stack
-- Installation
+ - Tech Stack
+ - Installation
  - Usage
  - Deployment
 
@@ -22,7 +22,7 @@ This portfolio website is designed to highlight my work, skills, and experiences
 - Project Showcase: Display your projects with descriptions, links, and images to give visitors an insight into your work.
 - Skills Section: Highlight your technical skills, programming languages, tools, and technologies you're proficient in.
 - About Me: Provide a brief introduction about yourself, your background, and what motivates you as a developer.
- - Contact Information: Make it easy for visitors to get in touch with you through various channels such as email, social media, or a contact form.
+- Contact Information: Make it easy for visitors to get in touch with you through various channels such as email, social media, or a contact form.
 
  ## Tech Stack
 
