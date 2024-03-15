@@ -2,6 +2,8 @@
 
 Welcome to my portfolio website! This project showcases my skills, projects, and experiences as a developer.
 
+![ing5erdiagram](https://github.com/pranavgupta022/Portfolio/blob/main/ssfront.jpg)
+
 ## Table of Content
 
 - Indroduction
